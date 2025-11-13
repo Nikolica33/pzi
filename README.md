@@ -1,2 +1,5 @@
 # pzi
-Clash Royale Veleučilište Rijeka
+*Clash Royale Veleučilište Rijeka*
+Penaldo
+HŽV
+Pessi
